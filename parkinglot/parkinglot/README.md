@@ -1,4 +1,4 @@
-# Parking Lot - LLD Design Pattern Practice
+# Parking Lot 
 
 ## Project Structure
 
